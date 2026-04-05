@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 '''
-VOLUME CALCULATION STL MODELS
-Author: Mar Canet (mar.canet@gmail.com) - August 2012-2025
+S H 3 W A T   CALCULATION STL MODEL
+Author:  (youssefshawat542@gmail.com) - 5 / 4 / 2 0 2 6
 Description: Calculate volume and mass of STL models (binary and ASCII), NIfTI, and DICOM files.
 '''
 
