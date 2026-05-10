@@ -62,7 +62,7 @@ Specialty: Carbon Fiber (3k CFRP), Alumide, Red Oak.
 
 👨‍💻 About the Author
 Youssef Yasser (Youssef Shawat)
-Data Science & AI Student @ Alexandria University
+Data Science & AI Student @ِ ANU 
 
 GitHub: github.com/youssefshawat
 
